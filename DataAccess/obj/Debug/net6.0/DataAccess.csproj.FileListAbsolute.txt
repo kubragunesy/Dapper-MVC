@@ -1,0 +1,15 @@
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\bin\Debug\net6.0\Entity.dll
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\bin\Debug\net6.0\Entity.pdb
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\GUNES\Documents\Kübra-C#\Proda_Task\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
